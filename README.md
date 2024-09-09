@@ -3,6 +3,10 @@
 ## About Me
 I'm Nabeel Wasif, a passionate web developer interested in cybersecurity. I love building secure and efficient web applications using cutting-edge technologies. My journey started with C and C++, and I've since embraced the power of JavaScript and TypeScript to develop scalable and robust applications. I'm well-versed in modern frontend frameworks like React, and I use Node.js with Express to create powerful backends with MongoDB as my database of choice.
 
+- 🔭 I’m currently working on [Readact](https://github.com/nabeel-w/Readact-Backend)
+
+- 🌱 I’m currently learning **Docker, Nginx and Google Cloud**
+
 ## 🛠️ Skills
 
 ### Languages
@@ -73,6 +77,8 @@ Here are some of my noteworthy projects:
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nabeel-wasif-06bb10256/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/nabeel-w)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hassanfarhat986@gmail.com)
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://docs.google.com/document/d/e/2PACX-1vSjm_eryggbbWLwzVgJIt8_Bxt82ak0c4ho0Y9bTzLwzd5h-hma_XVDeYKfDswhs9QQhlmeJIzEUDnl/pub)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1xfmgzhHFDBMXqJ8JzxaRWhS2yP9Js-Bb/view?usp=drive_link)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabeel-w&show_icons=true&locale=en&layout=compact" alt="nabeel-w" /></p>
 
 Let's collaborate and build something great together!

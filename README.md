@@ -34,7 +34,7 @@ __          __      _____ _____ ______
 ║    🎸  WELCOME TO THE THUNDERDOME OF CODE  🎸                       ║
 ║                                                                      ║
 ║    Where systems scale, LLMs rage, and bugs don't survive            ║
-║    the night. Grab your guitar. Let's ship something.                ║
+║    the night. Grab your laptop. Let's ship something.                ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```

@@ -31,10 +31,10 @@ __          __      _____ _____ ______
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                      ║
-║    🎸  WELCOME TO THE THUNDERDOME OF CODE  🎸                        ║
+║    🎸  WELCOME TO THE THUNDERDOME OF CODE  🎸                       ║
 ║                                                                      ║
-║    Where systems scale, LLMs rage, and bugs don't survive           ║
-║    the night. Grab your guitar. Let's ship something.               ║
+║    Where systems scale, LLMs rage, and bugs don't survive            ║
+║    the night. Grab your guitar. Let's ship something.                ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
@@ -48,17 +48,17 @@ __          __      _____ _____ ______
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                                                                 │
-│   ▶  NABEEL WASIF                        ★★★★★ DIFFICULTY      │
+│   ▶  NABEEL WASIF                        ★★★★★ DIFFICULTY    
 │      Backend Engineer / AI Builder                              │
-│      Special Move: RAG PIPELINE HADOUKEN 🔥                     │
+│      Special Move: RAG PIPELINE HADOUKEN 🔥                     
 │                                                                 │
-│   HEALTH: ████████████████████ 100%                            │
-│   COFFEE: ████████████████░░░░  80%   (needs refill)           │
-│   HYPE:   ████████████████████ 100%  (always full)             │
+│   HEALTH: ████████████████████ 100%                             │
+│   COFFEE: ████████████████░░░░  80%   (needs refill)            │
+│   HYPE:   ████████████████████ 100%  (always full)              │
 │                                                                 │
-│   FIGHTING STYLE: The Scalable Shoryuken                       │
-│   HOME STAGE: India 🇮🇳                                        │
-│   CURRENT BOSS: Production Bugs at 3AM                        │
+│   FIGHTING STYLE: The Scalable Shoryuken                        │
+│   HOME STAGE: India 🇮🇳                                          
+│   CURRENT BOSS: Production Bugs at 3AM                          │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -174,39 +174,39 @@ C++:         ████████░░░░░░░░░░░░   40% 
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│  📈  UPREZ  —  "THE FINAL BOSS"                              │
+│  📈  UPREZ  —  "THE FINAL BOSS"                              
 │  ──────────────────────────────────────────────────────────  │
-│  AI IPO compliance & prospectus automation platform.        │
-│  Multi-agent. Multi-modal. Multi-caffeinated.               │
-│  Stack: Next.js · Prisma · LangGraph · Gemini · Redis       │
-│  Status: ▶ SHIPPING  ⚡ LIVE  🔥 IN THE ARENA               │
+│  AI IPO compliance & prospectus automation platform.         │
+│  Multi-agent. Multi-modal. Multi-caffeinated.                
+│  Stack: Next.js · Prisma · LangGraph · Gemini · Redis        │
+│  Status: ▶ SHIPPING  ⚡ LIVE  🔥 IN THE ARENA              
 └──────────────────────────────────────────────────────────────┘
 
 ┌──────────────────────────────────────────────────────────────┐
-│  🏡  PROPURE  —  "THE THUNDERDOME"                           │
+│  🏡  PROPURE  —  "THE THUNDERDOME"                          
 │  ──────────────────────────────────────────────────────────  │
-│  Multi-agent real estate intelligence platform.             │
-│  RAG so sharp it cuts through listing noise.                │
-│  Stack: Node.js · Pinecone · OpenAI · PostgreSQL            │
-│  Status: ▶ BUILDING  🏗️ UNDER CONSTRUCTION  🤖 AI HEAVY    │
+│  Multi-agent real estate intelligence platform.              │
+│  RAG so sharp it cuts through listing noise.                 │
+│  Stack: Node.js · Pinecone · OpenAI · PostgreSQL             │
+│  Status: ▶ BUILDING  🏗️ UNDER CONSTRUCTION  🤖 AI HEAVY     
 └──────────────────────────────────────────────────────────────┘
 
 ┌──────────────────────────────────────────────────────────────┐
-│  🏗️  STRUXO / BUILDPAYZ  —  "THE TRAINING GROUND"           │
+│  🏗️  STRUXO / BUILDPAYZ  —  "THE TRAINING GROUND"           
 │  ──────────────────────────────────────────────────────────  │
-│  Milestone payments + escrow workflow system.               │
-│  Money moves only when work ships. Revolutionary.           │
-│  Stack: TypeScript · Prisma · PostgreSQL · BullMQ           │
-│  Status: ✅ SHIPPED  🏆 BATTLE-TESTED  👑 CORE CONTRIBUTOR  │
+│  Milestone payments + escrow workflow system.                │
+│  Money moves only when work ships. Revolutionary.            │
+│  Stack: TypeScript · Prisma · PostgreSQL · BullMQ            │
+│  Status: ✅ SHIPPED  🏆 BATTLE-TESTED  👑 CORE CONTRIBUTOR  
 └──────────────────────────────────────────────────────────────┘
 
 ┌──────────────────────────────────────────────────────────────┐
-│  📄  ANONIFY  —  "THE SILENT ASSASSIN"                       │
+│  📄  ANONIFY  —  "THE SILENT ASSASSIN"                       
 │  ──────────────────────────────────────────────────────────  │
-│  PII redaction SaaS using NLP.                              │
-│  Your data's secrets die here.                              │
-│  Stack: Python · NLP · SaaS Architecture                   │
-│  Status: ✅ SHIPPED  🔐 SECURE  🕵️ STEALTHY                 │
+│  PII redaction SaaS using NLP.                               │
+│  Your data's secrets die here.                               │
+│  Stack: Python · NLP · SaaS Architecture                     │
+│  Status: ✅ SHIPPED  🔐 SECURE  🕵️ STEALTHY                 
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -281,20 +281,9 @@ while (alive) {
 ```
 ╔══════════════════════════════════════════════════════╗
 ║                                                      ║
-║         🎸  YOU HAVE BEEN ROCKED  🎸                 ║
-║                                                      ║
-║   Profile Views:                                     ║
-║                                                      ║
-```
-
-<img src="https://komarev.com/ghpvc/?username=nabeel-w&label=Arena+Entries&color=FF4500&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/nabeel-w?style=for-the-badge&label=Player+2s&color=FF6B35" />
-<img src="https://img.shields.io/github/stars/nabeel-w?style=for-the-badge&label=Power+Stars&color=FFD700&affiliations=OWNER" />
-
-```
 ║                                                      ║
 ║              GAME OVER? NEVER.                       ║
-║         INSERT COIN TO CONTINUE  🪙                  ║
+               INSERT COIN TO CONTINUE  🪙                      
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```

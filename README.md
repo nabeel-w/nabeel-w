@@ -85,8 +85,8 @@ boss_fights_survived:
   - "Debugging someone else's async hell 🔥"
   - "Delivering an MVP in 2 weeks 😤"
   - "A PM who says 'just a small change' 😈"
-final_boss: "Building something people actually love"
-status: STILL FIGHTING 🕹️
+final_boss: "Building something people actually trust"
+status: STILL FIGHTING — CURRENTLY BUILDING ANONIFY 2.0 🕹️
 ```
 
 ---
@@ -195,12 +195,22 @@ C++:         ████████░░░░░░░░░░░░   40% 
 └──────────────────────────────────────────────────────────────┘
 
 ┌──────────────────────────────────────────────────────────────┐
-│  📄  ANONIFY  —  "THE SILENT ASSASSIN"                       
+│  📄  ANONIFY 2.0  —  "THE REDACTION REBOOT"                 
 │  ──────────────────────────────────────────────────────────  │
-│  PII redaction SaaS using NLP.                               │
-│  Your data's secrets die here.                               │
-│  Stack: Python · NLP · SaaS Architecture                     │
-│  Status: ✅ SHIPPED  🔐 SECURE  🕵️ STEALTHY                 
+│  AI-assisted document redaction with human review.          
+│  Detect. Review. Remove. Verify.                            
+│  Stack: TypeScript · Next.js · PostgreSQL · AI · OCR        
+│  Status: ▶ ACTIVELY BUILDING  🛠️ OPEN SOURCE  🔐 PRIVACY FIRST
+└──────────────────────────────────────────────────────────────┘
+
+┌──────────────────────────────────────────────────────────────┐
+│  📄  ANONIFY  —  "THE ORIGINAL"                            
+│  ──────────────────────────────────────────────────────────  │
+│  My first PII redaction project and the reason v2 exists.   
+│  The prototype that taught me what a real redaction tool    
+│  actually needs to get right.                               
+│  Stack: Python · Flask · React · spaCy · NLP                
+│  Status: ✅ SHIPPED  🧪 THE ORIGINAL  🕵️ THE BEGINNING      
 └──────────────────────────────────────────────────────────────┘
 ```
 
